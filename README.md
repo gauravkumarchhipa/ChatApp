@@ -16,4 +16,4 @@ Open [http://localhost:3000]
 "sass": "^1.58.3",
 "uuid": "^9.0.0"
 # Description 
-This React app in real time chating app using firebase. And This chating app in login and after image and message send real time person to person.
+This React app in real time chatting app using firebase. And This chatting app in login and after image and message send real time person to person.
